@@ -1,0 +1,83 @@
+body{
+    color: blue;
+    background-color: aliceblue;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.header-1{
+    background-color: navy;
+    height: 150px;
+    color: white;
+    width: 80%;
+    margin: auto;
+    border-right: 5px red solid;
+    border-radius: 10px;
+}
+
+.header-1 table{
+    padding-top: 100px;
+}
+
+.header-1 a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 3px;
+}
+
+.header-1 a:hover{
+    background-color: aqua;
+    color: black;
+}
+
+.header-1 a:active{
+    color: red;
+}
+
+.header-1 a:visited{
+    color:;
+}
+
+.content{
+    height: auto;
+    width: 70%;
+    background-color: white;
+    margin: auto;
+}
+
+.content h1{
+    text-align: center;
+    color: navy;
+    font-family: 'Courier New';
+}
+
+.content p{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+
+.content img{
+    max-width: 100px;
+}
+
+.content h2{
+    text-align: center;
+    color: navy;
+    text-decoration: underline;
+}
+
+.content ul li{
+    list-style: circle;
+    font-size: 30px;
+    color: navy;
+    font-family: 'Courier New';
+
+}
+
+
+
